@@ -1,1 +1,1 @@
-MR
+MRJob
